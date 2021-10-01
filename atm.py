@@ -73,7 +73,7 @@ while count < 3:
 	else:
 		print('------------------------')
 		print('************************')
-		print('PIN CONSISTS OF 4 DIGITS')
+		print('PIN CONSISTS ONLY 4 DIGITS')
 		print('************************')
 		print('------------------------')
 		count += 1
@@ -190,7 +190,7 @@ while True:
 			print('   NEW PIN MUST CONSIST OF 4 DIGITS \nAND MUST BE DIFFERENT TO PREVIOUS PIN')
 			print('*************************************')
 			print('-------------------------------------')
-	elif response == 'q':
+	elif response == 'Q':
 		exit()
 	else:
 		print('------------------')
