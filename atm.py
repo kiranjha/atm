@@ -10,7 +10,7 @@ amounts = [1000, 2000, 3000]
 count = 0
 # while loop checks existance of the enterd username
 while True:
-	user = input('\nENTER USER NAME: ')
+	user = input('\n PLEASE ENTER USERNAME: ')
 	user = user.lower()
 	if user in users:
 		if user == users[0]:
