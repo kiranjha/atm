@@ -96,7 +96,7 @@ print('-------------------------')
 print()
 print('--------------------------')
 print('**************************')	
-print(str.capitalize(users[n]), 'welcome to ATM')
+print(str.capitalize(users[n]), 'Welcome to ATM')
 print('**************************')
 print('----------ATM SYSTEM-----------')
 # Main menu
